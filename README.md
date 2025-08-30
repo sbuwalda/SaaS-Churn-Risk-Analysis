@@ -14,7 +14,6 @@
 6. [Tools and Technologies Used](#tools-and-technologies-used)
 7. [Analytical Approaches](#analytical-approaches)
 8. [Key Insights and Recommendations](#key-insights-and-recommendations)
-10. [Reflection](#reflection)
 
 
 
@@ -288,3 +287,4 @@ As expected, most customers cancel at the start of their subscription, with the 
 - Building trust from day one
 
 After around the sixth month, churn levels off and becomes more stable.
+
