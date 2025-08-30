@@ -102,7 +102,7 @@ Link to dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ## Tools and Technologies Used
 
 * **PostgreSQL & pgAdmin 4**: for data cleaning and descriptive analysis.
-* **Power BI & DAX**: for descriptive analysis, visualizations, and creating a analysis report.
+* **Power BI & DAX**: for creating measures, performing descriptive analysis, creating visualizations, and creating an analysis report.
 * **Markdown**: for writing documentation regarding this project.
 
 
