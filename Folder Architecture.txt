@@ -1,0 +1,14 @@
+/PowerBI-SQL-Portfolio/
+│
+├── /raw_data/             # Original untouched dataset
+│
+├── /sql_scripts/          # All SQL scripts
+│
+├── /powerbi_reports/      # Power BI files
+│   └── project_dashboard.pbix
+│
+├── /sql_outputs/              # Exported SQL tables and reports
+│
+├── README.md
+│
+└── folder_architecture.txt    # Architecture of the complete project folder
