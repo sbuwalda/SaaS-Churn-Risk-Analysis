@@ -7,4 +7,4 @@
 | `monthlycharges`   | `75-100`             |
 | `paymentmethod`    | `'Electronic check'` |
 | `totalcharges`     | `0–500`              |
-| `tenure`           | `0–12` maanden       |
+| `tenure`           | `0–12` months        |
